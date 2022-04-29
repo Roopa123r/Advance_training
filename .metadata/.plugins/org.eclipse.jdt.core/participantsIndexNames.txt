@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Phase2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\360231750.index
+\Simple JSP\src
+C:\Phase2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2982864925.index
+\JspImplicitObject\src
+C:\Phase2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3179857968.index
+\JSP Action Tags\src
+C:\Phase2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3477368597.index
+\JSP Session\src
